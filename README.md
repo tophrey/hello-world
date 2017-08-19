@@ -2,6 +2,4 @@
 
 hi world
 
-i'm christoph.
-
-ready to take on a new programming adventure!
+i'm tophrey, watch me fly!
